@@ -31,6 +31,6 @@
   <footer>
     <h6>  Ваш лучший ученик.Все права защищены.</h6>
   </footer>
-  
+   <img src = "blob:https://web.whatsapp.com/31ead3cb-0a29-41c4-95c0-10bd341a5b79">axaxaxax</img>
 </body>
 </html> 
