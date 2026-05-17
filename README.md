@@ -1,4 +1,4 @@
-
+<img width="576" height="1080" alt="31ead3cb-0a29-41c4-95c0-10bd341a5b79" src="https://github.com/user-attachments/assets/68cf045d-c6b7-4493-aeb1-e61cd017d27a" />
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -29,8 +29,7 @@
     <a href = "https://youtu.be/dQw4w9WgXcQ?list=RDdQw4w9WgXcQ">нажми меня !!!</a>
      
   <footer>
-    <h6>  Ваш лучший ученик.Все права защищены.</h6>
+    <h6>Ваш лучший ученик.Все ваши права защищены.</h6>
   </footer>
-   <img src="https://web.whatsapp.com/31ead3cb-0a29-41c4-95c0-10bd341a5b79"></img>
 </body>
 </html> 
