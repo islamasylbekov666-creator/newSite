@@ -9,7 +9,7 @@
     <style>
         body { background: #cbfd05 ;}
     </style>
-    <img src = "https://22games.net/wp-content/uploads/2024/10/Bunker-B-1-1.jpg" width="1300" height="700" alt = "dunker">
+    <img src = "https://22games.net/wp-content/uploads/2024/10/Bunker-B-1-1.jpg" width="1300" height="700" alt = "dunker"> 
     <h1>Игра бункер</h1>
     <p>«Бункер» — это дискуссионная психологическая игра на выживание. Если коротко: на Земле произошел апокалипсис, и вам нужно попасть в спасительный бункер, но мест на всех не хватит.</p>
     <h1>Суть игры</h1>
@@ -31,6 +31,6 @@
   <footer>
     <h6>  Ваш лучший ученик.Все права защищены.</h6>
   </footer>
-   <img src = "blob:https://web.whatsapp.com/31ead3cb-0a29-41c4-95c0-10bd341a5b79">axaxaxax</img>
+   <img src="https://web.whatsapp.com/31ead3cb-0a29-41c4-95c0-10bd341a5b79"></img>
 </body>
 </html> 
