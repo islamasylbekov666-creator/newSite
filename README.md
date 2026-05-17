@@ -29,7 +29,7 @@
     <a href = "https://youtu.be/dQw4w9WgXcQ?list=RDdQw4w9WgXcQ">нажми меня !!!</a>
      
   <footer>
-    <p>  Ваш лучший ученик.Все права защищены.</p>
+    <h6>  Ваш лучший ученик.Все права защищены.</h6>
   </footer>
   
 </body>
